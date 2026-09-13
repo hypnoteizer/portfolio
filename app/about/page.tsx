@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <main className="max-w-2xl mx-auto px-8 py-16">
-      <h1 className="text-3xl font-bold mb-6">Hakkımda</h1>
+      <h1 className="text-3xl font-bold mb-6">About Me</h1>
       <p className="text-zinc-600 leading-relaxed mb-4">
         Hallo, ich bin Orkan. I am currently a Mechanical Engineering student at Karlsruhe Institute of Technology (KIT) in Germany. I have a strong desire to learn and build so I built this website. I plan to upload my projects, blogs and journey with you. Hoping a great journey ahead!
       </p>

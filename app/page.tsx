@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex flex-1 flex-col items-center justify-center px-8 text-center">
       <h1 className="text-4xl font-bold">its Orkan.</h1>
       <p className="mt-4 max-w-md text-lg text-zinc-600">
-        I am a engineering candidate, building his website. Hang around to see my projects, blogs and journey.
+        i am an engineering candidate, building his website. hang around to see my projects, blogs and journey.
       </p>
 
       <div className="mt-8 flex gap-4">

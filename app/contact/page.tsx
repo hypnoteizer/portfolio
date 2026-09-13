@@ -7,10 +7,9 @@ const contactLinks = [
 export default function Contact() {
   return (
     <main className="max-w-2xl mx-auto px-8 py-16">
-      <h1 className="text-3xl font-bold mb-6">İletişim</h1>
+      <h1 className="text-3xl font-bold mb-6">Contact</h1>
       <p className="text-zinc-600 leading-relaxed mb-10">
-        Benimle iletişime geçmek, projelerim hakkında konuşmak ya da işbirliği
-        yapmak isterseniz aşağıdaki kanallardan ulaşabilirsiniz.
+        You can reach me through the following channels. I look forward to connecting with you!
       </p>
       <ul className="flex flex-col gap-4">
         {contactLinks.map((link) => (

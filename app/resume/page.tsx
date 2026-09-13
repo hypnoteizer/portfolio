@@ -32,9 +32,9 @@ export default function Resume() {
       <section>
         <h2 className="text-xl font-semibold mb-3">Interests</h2>
         <p className="text-zinc-600 leading-relaxed">
-          Aerodynamics
-          Rocket Propulsion
-          CAD Design
+          Aerodynamics /
+          Rocket Propulsion /
+          CAD Design /
           Software Development
         </p>
       </section>
