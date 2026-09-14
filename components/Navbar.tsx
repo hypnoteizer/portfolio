@@ -7,7 +7,7 @@ const navItems = [
   { label: "Research", href: "/research", available: false },
   { label: "CAD Portfolio", href: "/cad", available: false },
   { label: "Notebook", href: "/notebook", available: false },
-  { label: "Blog", href: "/blog", available: false },
+  { label: "Blog", href: "/blog", available: true },
   { label: "Resume", href: "/resume", available: true },
   { label: "Contact", href: "/contact", available: true },
 ];
