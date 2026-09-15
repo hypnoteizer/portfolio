@@ -6,7 +6,7 @@ export default function Notebook() {
 
   return (
     <main className="max-w-2xl mx-auto px-8 py-16">
-      <h1 className="text-3xl font-bold mb-10">Mühendislik Defteri</h1>
+      <h1 className="text-3xl font-bold mb-10">Notebook</h1>
 
       <ul className="flex flex-col gap-8">
         {entries.map((entry) => (
