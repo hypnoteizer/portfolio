@@ -5,7 +5,7 @@ const navItems = [
   { label: "About", href: "/about", available: true },
   { label: "Projects", href: "/projects", available: true },
   { label: "Research", href: "/research", available: true },
-  { label: "CAD Portfolio", href: "/cad", available: false },
+  { label: "CAD Portfolio", href: "/cad", available: true },
   { label: "Notebook", href: "/notebook", available: true },
   { label: "Blog", href: "/blog", available: true },
   { label: "Resume", href: "/resume", available: true },
